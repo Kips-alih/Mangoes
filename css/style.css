@@ -3,7 +3,13 @@
   float: left;
 }
 img{
-  float: left;
+  float: right;
   width:100px;
   height: 100px;
+}
+body{
+  background-image: url("/images/mango.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: blue;
 }
